@@ -1,0 +1,8 @@
+{
+  "name": "GuiaVision AI",
+  "description": "Um assistente inteligente de locomoção e reconhecimento para crianças e adolescentes com deficiência visual, utilizando IA em tempo real para descrever o ambiente e detectar obstáculos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
